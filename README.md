@@ -56,7 +56,7 @@ Run index.html in your browser
 
 Add screenshots of the website here.
 
-![Website Preview](images/preview.png)
+![Website Preview](img/screen-1.jpg)
 🎯 Learning Goals
 
 Practice semantic HTML structure
